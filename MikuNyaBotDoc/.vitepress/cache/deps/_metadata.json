@@ -1,29 +1,50 @@
 {
-  "hash": "fc1d2fe7",
-  "configHash": "61a1730f",
+  "hash": "c32f995b",
+  "configHash": "d5cf54fa",
   "lockfileHash": "d5bca48e",
-  "browserHash": "e815687d",
+  "browserHash": "72269597",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/.pnpm/vue@3.4.38/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "cb0f89f9",
+      "fileHash": "647865d4",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/.pnpm/@vue+devtools-api@7.3.9/node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "c194d131",
+      "fileHash": "502b6863",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/.pnpm/@vueuse+core@11.0.3_vue@3.4.38/node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "01412933",
+      "fileHash": "443d8cd2",
+      "needsInterop": false
+    },
+    "vitepress > @vueuse/integrations/useFocusTrap": {
+      "src": "../../../../node_modules/.pnpm/@vueuse+integrations@11.0.3_focus-trap@7.5.4_vue@3.4.38/node_modules/@vueuse/integrations/useFocusTrap.mjs",
+      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
+      "fileHash": "1ab5ff65",
+      "needsInterop": false
+    },
+    "vitepress > mark.js/src/vanilla.js": {
+      "src": "../../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
+      "file": "vitepress___mark__js_src_vanilla__js.js",
+      "fileHash": "9c27696a",
+      "needsInterop": false
+    },
+    "vitepress > minisearch": {
+      "src": "../../../../node_modules/.pnpm/minisearch@7.1.0/node_modules/minisearch/dist/es/index.js",
+      "file": "vitepress___minisearch.js",
+      "fileHash": "6f00f5f4",
       "needsInterop": false
     }
   },
   "chunks": {
+    "chunk-TYYCM4EZ": {
+      "file": "chunk-TYYCM4EZ.js"
+    },
     "chunk-III5EX5K": {
       "file": "chunk-III5EX5K.js"
     }
