@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as l,V as a}from"./chunks/framework.sev-WgE4.js";const m=JSON.parse('{"title":"用户条款","description":"","frontmatter":{},"headers":[],"relativePath":"terms.md","filePath":"terms.md"}'),e={name:"terms.md"},i=a("",10),r=[i];function s(c,n,d,_,p,b){return l(),o("div",null,r)}const B=t(e,[["render",s]]);export{m as __pageData,B as default};

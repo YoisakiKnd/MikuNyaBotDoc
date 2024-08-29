@@ -7,9 +7,9 @@
 
 ### UniBot帮助
 提供了ProjectSekai/世界计划的游戏查询
-```tip
-Unibot内猜曲，猜卡面等功能需要联系bot主单独开放
-```
+> [!WARNING]
+> tipUnibot内猜曲，猜卡面等功能需要联系bot主单独开放
+
 [Unibot使用帮助](https://docs.unipjsk.com)
 
 ### MaiMaiDX
@@ -25,9 +25,9 @@ Unibot内猜曲，猜卡面等功能需要联系bot主单独开放
 `cb peek` 偷窥bot主的屏幕
 ### 反馈
 `.send+反馈内容`向维护组成员发送反馈
-```admonish danger
-请合理使用
-```
+> [!WARNING]
+> 请合理使用
+
 
 ### steam订阅
 `steambind` [STEAM ID/steam好友码] 绑定steam<br />
@@ -55,9 +55,9 @@ GRE,考研,GMAT,专四,TOFEL,SAT,专八,IELTS,CET4,CET6<br />
 ### 头像表情包
 触发指令：指令+@某人/qq号/自己/【图片】
 支持的指令：<br />
-```admonish tip
-请在群内发送`头像表情包帮助`获取帮助
-```
+> [!TIP]
+> 请在群内发送`头像表情包帮助`获取帮助
+
 
 ### 娶群友
 - `娶群友` 纯爱，一天刷新一次，双向奔赴<br />
