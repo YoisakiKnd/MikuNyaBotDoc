@@ -1,4 +1,4 @@
-# 葱喵Bot帮助
+# 葱喵Bot帮助 <Badge type="tip" text="Latest-躯樹の墓守" />
 ## 音游功能
 本BOT音游相关由第三方Bot服务提供<br />
 ### ChieriBot帮助
