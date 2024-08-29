@@ -15,7 +15,7 @@ hero:
       link: /BotHelp
     - theme: alt
       text: QQ群
-      link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=QcTGEqVvjFX05xJ4vIJyWiGNuNCSgcuK&authKey=OnZ7G%2BxWSwQQ%2Ba%2FZK3P0udDLQz2sL56KweFQjpfTFi8R2306MzDGO65qOefj9wng&noverify=0&group_code=197916793
+      link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DwSI9knjUpdYhNOStiCfsc400ZuYZ3gZ&authKey=g1jS4ol3PGY%2BQPDy4pVr3FXJPKPvvyM8Gosv197tr%2F4jQmrJzQDwQ7Sv1WwSNGQb&noverify=0&group_code=917766863
 
 features:
   - title: 更多的娱乐玩法
