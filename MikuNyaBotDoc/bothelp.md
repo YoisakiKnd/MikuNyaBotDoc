@@ -2,15 +2,15 @@
 ## 音游功能
 本BOT音游相关由第三方Bot服务提供<br />
 ### ChieriBot帮助
-提供了Arcaea，MaiMai，OSU！等游戏的查询<br />
-[ChieriBot帮助文档](https://chieri.docs.chinosk6.cn)<br />
+ChieriBot不属于葱喵Bot，您可以在这一页找到ChieriBot的相关帮助<br />
+[ChieriBot帮助](/thirdparty/Chieri-Bot)
 
-### UniBot帮助
-提供了ProjectSekai/世界计划的游戏查询
-> [!WARNING]
-> tipUnibot内猜曲，猜卡面等功能需要联系bot主单独开放
+### UniBot帮niBot不属于葱喵Bot，您可以在这一页找到UniBot的相关帮助<br />
+[Unibot帮助](/thirdparty/U助
+Uni-Bot)
 
-[Unibot使用帮助](https://docs.unipjsk.com)
+### TsuguBot帮助
+
 
 ### MaiMaiDX
 请在群内发送`帮助MaiMaiDX`获取帮助图片<br />

@@ -1,1 +1,0 @@
-import{_ as i,c as a,o,V as e}from"./chunks/framework.sev-WgE4.js";const b=JSON.parse('{"title":"MaiMai分数上传教程","description":"","frontmatter":{},"headers":[],"relativePath":"xdiamiam.md","filePath":"xdiamiam.md"}'),d={name:"xdiamiam.md"},c=e("",19),t=[c];function l(r,n,s,u,m,h){return o(),a("div",null,t)}const f=i(d,[["render",l]]);export{b as __pageData,f as default};
