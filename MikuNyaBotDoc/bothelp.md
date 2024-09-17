@@ -2,15 +2,16 @@
 ## 音游功能
 本BOT音游相关由第三方Bot服务提供<br />
 ### ChieriBot帮助
-ChieriBot不属于葱喵Bot，您可以在这一页找到ChieriBot的相关帮助<br />
+葱喵Bot的部分功能由ChieriBot提供，您可以在这一页找到ChieriBot的相关帮助<br />
 [ChieriBot帮助](/thirdparty/Chieri-Bot)
 
-### UniBot帮niBot不属于葱喵Bot，您可以在这一页找到UniBot的相关帮助<br />
-[Unibot帮助](/thirdparty/U助
-Uni-Bot)
+### UniBot帮助
+葱喵Bot的部分功能由UniBot提供，您可以在这一页找到UniBot的相关帮助<br />
+[Unibot帮助](/thirdparty/Uni-Bot)
 
 ### TsuguBot帮助
-
+葱喵Bot的部分功能由UniBot提供，您可以在这一页找到UniBot的相关帮助<br />
+[TsuguBot帮助](/thirdparty/Tsugu-Bot)
 
 ### MaiMaiDX
 请在群内发送`帮助MaiMaiDX`获取帮助图片<br />

@@ -137,3 +137,25 @@
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+.timeline {
+  list-style: none;
+  padding: 0;
+}
+
+.timeline li {
+  position: relative;
+  padding: 10px 0;
+  margin: 0;
+}
+
+.timeline-content {
+  padding-left: 30px;
+  border-left: 2px solid #3498db;
+}
+
+.timeline-date {
+  position: absolute;
+  left: -50px;
+  top: 0;
+  font-weight: bold;
+}

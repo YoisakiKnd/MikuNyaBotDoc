@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "葱喵Bot"
+  name: "葱喵Bot文档"
   text: "A Doc for QQBot"
   tagline: 为爱出发，致力于最好的QQbot服务
   image:
@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: QQ群
       link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DwSI9knjUpdYhNOStiCfsc400ZuYZ3gZ&authKey=g1jS4ol3PGY%2BQPDy4pVr3FXJPKPvvyM8Gosv197tr%2F4jQmrJzQDwQ7Sv1WwSNGQb&noverify=0&group_code=917766863
+    - theme: alt
+      text: 画廊
+      link: /gallery
 
 features:
   - title: 更多的娱乐玩法

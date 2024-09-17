@@ -2,7 +2,8 @@
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "CongMiaoBot",
+  lastUpdated: true,
+  title: "MikuNyaBot",
   description: "A Doc for QQBot",
   head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   themeConfig: {
@@ -12,7 +13,7 @@ export default defineConfig({
       provider: 'local'
     },
     footer: {
-            message: '葱喵Bot立绘，logo由神坂神坂提供',
+            message: '葱喵Bot立绘，logo由<a href="https://space.bilibili.com/501085490">神坂神坂</a>提供',
                   copyright: 'Copyright © 2020-2024 葱喵Bot 由天音铃制作',
     },         
     nav: [
@@ -25,13 +26,21 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '',
+        text: '葱喵Bot相关帮助',
         items: [
       { text: 'Bot使用帮助', link: '/BotHelp' },
       { text: '用户协议', link: '/terms' },
       { text: '关于', link: '/about'},
       { text: 'maimai上传帮助', link: '/maiupdate' },
       { text: 'arcaea上传帮助', link: '/ab30'}
+        ]
+      },
+      {
+        text: '第三方Bot相关帮助',
+        items: [
+          { text: 'ChieriBot帮助', link: '/thirdparty/Chieri-Bot'},
+          { text: 'UniBot帮助', link: '/thirdparty/Uni-Bot'},
+          { text: 'TsuguBot帮助', link: '/thirdparty/Tsugu-Bot'}
         ]
       }
     ],
