@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 使用帮助
-      link: /BotHelp
+      link: /bothelp
     - theme: alt
       text: QQ群
       link: http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=DwSI9knjUpdYhNOStiCfsc400ZuYZ3gZ&authKey=g1jS4ol3PGY%2BQPDy4pVr3FXJPKPvvyM8Gosv197tr%2F4jQmrJzQDwQ7Sv1WwSNGQb&noverify=0&group_code=917766863
